@@ -1,8 +1,8 @@
 Package: Achilles
 Type: Package
 Title: Achilles Data Source Characterization
-Version: 1.7.1
-Date: 2023-05-01
+Version: 1.7.2
+Date: 2023-05-11
 Authors@R: c(
   person("Frank", "DeFalco", email = "fdefalco@ohdsi.org", role = c("aut","cre")),  
   person("Patrick", "Ryan", email = "ryan@ohdsi.org", role = c("aut")),  
@@ -33,7 +33,7 @@ RoxygenNote: 7.2.3
 Encoding: UTF-8
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2023-05-01 19:34:27 UTC; admin_fdefalco
+Packaged: 2023-05-11 16:30:49 UTC; admin_fdefalco
 Author: Frank DeFalco [aut, cre],
   Patrick Ryan [aut],
   Martijn Schuemie [aut],
@@ -44,4 +44,4 @@ Author: Frank DeFalco [aut, cre],
   Anthony Molinaro [aut],
   Observational Health Data Science and Informatics [cph]
 Repository: CRAN
-Date/Publication: 2023-05-03 18:15:35 UTC
+Date/Publication: 2023-05-11 16:50:02 UTC

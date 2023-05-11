@@ -1,6 +1,6 @@
-85ed2105a2950f5d149e7e17d68a3bee *DESCRIPTION
+c62d9b8569ce8516d69357b097baa419 *DESCRIPTION
 11dce295ea3c1cd06727eb81e883644a *NAMESPACE
-14ace329f1242d6abd2b57e8d2034b6a *NEWS.md
+1b12cc87f6efb51d8531424cc8deb8fc *NEWS.md
 468f1e7c4f687c978660f26e4f79a93b *R/Achilles-package.R
 4eb41c933c6ed8a11b7a98a32df13e3a *R/Achilles.R
 e8a3f886dd4d874cd150f3571195179a *R/createTimeSeries.r
@@ -25,10 +25,10 @@ f79c5f72b0b45768d6dc73daad8e3c22 *build/vignette.rds
 3c1903bb4c0dd8205d5caee534c79056 *inst/csv/schemas/schema_achilles_results_concept_count.csv
 e2305e3fd67ff345c0fe2b6a95883dfc *inst/csv/schemas/schema_achilles_results_dist.csv
 21f5642558b540904c31c231def790fe *inst/doc/GettingStarted.Rmd
-e53ac05360e5d6bc5075b6c60eddc1ed *inst/doc/GettingStarted.pdf
+4649f5236c451414e01a2062ab18f9b7 *inst/doc/GettingStarted.pdf
 a7c70ca4eecfbc6f21e5d6e59e08fb74 *inst/doc/RunningAchilles.R
 63e91e9c16625d19e8113e4a1f75f766 *inst/doc/RunningAchilles.Rmd
-83bc99a8dac997939ceb6deaeeb9fba5 *inst/doc/RunningAchilles.pdf
+0801b3985e0c135d40a01849d577a2a3 *inst/doc/RunningAchilles.pdf
 049ae32ebd609c79605ef62c12056b65 *inst/sql/sql_server/analyses/0.sql
 b98fe2b8ac1ed19143f2e38daeeb2a15 *inst/sql/sql_server/analyses/1.sql
 0bef0675dbad7144da6a8812b28e5360 *inst/sql/sql_server/analyses/10.sql
@@ -477,7 +477,7 @@ c93dafc042dd1928f1ffb9e79291313b *man/sumAcrossYears.Rd
 bb21d6159fe30b2c23f5b7cde25d6354 *man/tsCompleteYears.Rd
 3164753268dd9e2957acc9f24f3be5b2 *tests/testthat.R
 2a97eb04dac2323912b934b5f784cdb9 *tests/testthat/output/log_achilles.txt
-c10d5ed644ce15e10ee95846697b1f37 *tests/testthat/setup.R
+71eecb62a696a3cddcbaa8a1042f189f *tests/testthat/setup.R
 623d9230cd2c49413928fdc59739ac5c *tests/testthat/test-mssql.R
 67bbcf3564f7a1a452c3482a1bee6567 *tests/testthat/test-oracle.R
 491d253f333187f1c22741b0a6592784 *tests/testthat/test-postgres.R
